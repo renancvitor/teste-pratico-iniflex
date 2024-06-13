@@ -1,7 +1,5 @@
 package Entities;
 
-import Entities.Pessoa;
-
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
